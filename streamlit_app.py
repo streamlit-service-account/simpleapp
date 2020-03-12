@@ -18,3 +18,4 @@ st.write("Streamlit is fabulous")
 
 st.write("Hello Corey, this is the demo!")
 st.balloons()
+print("this is a log line")
