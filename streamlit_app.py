@@ -15,3 +15,6 @@ with open("temp_file.txt", "r") as f:
   st.write(f.read())
 
 st.write("Streamlit is fabulous")
+
+st.write("Hello Corey, this is the demo!")
+st.ballons()
