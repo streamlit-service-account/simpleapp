@@ -2,7 +2,7 @@ import time
 
 import streamlit as st
 
-st.title("Testing an update to the app!!!")
+st.title("Aaand we are testing an update to the app!!!")
 
 time.sleep(10)
 
