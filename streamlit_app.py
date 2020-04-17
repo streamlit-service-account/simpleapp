@@ -1,3 +1,5 @@
+import time
+
 import streamlit as st
 
 st.title("Test App!!!")
@@ -19,3 +21,6 @@ st.write("Streamlit is fabulous")
 st.write("Hello Corey, this is the demo!")
 st.balloons()
 print("this is a log line")
+time.sleep(5)
+st.write("It's time for some more balloons!")
+st.balloons()
