@@ -2,6 +2,10 @@ import time
 
 import streamlit as st
 
+st.title("Testing an update to the app!!!")
+
+time.sleep(10)
+
 st.title("Test App!!!")
 
 value = st.slider("Pick a number", 0, 10, 3)
