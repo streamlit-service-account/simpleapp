@@ -2,11 +2,9 @@ import time
 
 import streamlit as st
 
-st.title("Aaaand we are testing an update to the app!!!")
-
-time.sleep(10)
-
 st.title("Test App!!!")
+
+file_obj = st.sidebar.file_uploader('Choose an image:', ('jpg', 'jpeg'))
 
 value = st.slider("Pick a number", 0, 10, 3)
 
