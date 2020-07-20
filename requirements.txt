@@ -1,3 +1,2 @@
 streamlit
 git+https://github.com/tensorflow/examples.git
-junk-dependency-to-fail-install
