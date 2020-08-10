@@ -1,3 +1,4 @@
 streamlit
 git+https://github.com/tensorflow/examples.git
 requests
+bad-package
